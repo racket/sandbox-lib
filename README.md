@@ -1,3 +1,9 @@
+# This repository has been merged into `racket/racket`.
+
+See the source to `sandbox-lib` [in that repository](https://github.com/racket/racket/tree/master/pkgs/sandbox-lib).
+
+Previous README follows.
+
 # sandbox-lib
 
 This the source for the Racket package: "sandbox-lib".
